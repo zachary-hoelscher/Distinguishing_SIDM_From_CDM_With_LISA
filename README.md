@@ -5,4 +5,4 @@ In this work we use simulations of two Milky Way - mass galaxies to build sets o
 
 This repository contains a Jupyter notebook that conducts this analysis for comparing cosmic times, and another notebook for comparing mass ratios. One can adjust a line near the top of each file to alter the number of mergers observed by LISA. The script then computes an average p-value and the standard deviation for the p-value, where inverse transform sampling is used to generate 10,000 sets of cosmic times and mass ratios that are compared. We also include a Jupyter notebook to produce p-value plots, and a Jupyter notebook for estimating SNR (signal-to-noise ratio) ranges, as would be seen by LISA. 
 
-Note that the relevant data (the cosmic times and mass ratios of mergers in the simulations) are included in the notebooks. 
+Note that the relevant data (the cosmic times and mass ratios of mergers in the simulations) is included in the notebooks. 
